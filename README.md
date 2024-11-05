@@ -2,6 +2,9 @@
 The 100 Days of mastering python journey.
 
 - **Day001**: Intro,variable,Data Types,operators and more.
+- **Day001**: type function,type casting and inputs functions.
+
+
 
 ## Learning Resorces/Credits:
 • comprehensive Python tutorial [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html).
