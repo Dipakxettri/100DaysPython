@@ -1,7 +1,7 @@
 # 100DaysPython
 The 100 Days of mastering python journey.
 
-- **Day001*: Intro,variable,Data Types,operators and more.
+- **Day001**: Intro,variable,Data Types,operators and more.
 
 ## Learning Resorces/Credits:
 • comprehensive Python tutorial [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html).
